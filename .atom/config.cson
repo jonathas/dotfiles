@@ -1,0 +1,28 @@
+"*":
+  "atom-typescript": {}
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "markdown-preview-plus"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "node_modules"
+    ]
+  editor:
+    invisibles: {}
+    softWrap: true
+    tabLength: 4
+  jslint:
+    validateOnChange: true
+  linter: {}
+  minimap: {}
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
